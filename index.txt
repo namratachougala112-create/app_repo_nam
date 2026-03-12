@@ -1,4 +1,3 @@
 this is the first line
 this is the second line
-
-hloo namii
+this is the third line
